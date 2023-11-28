@@ -1,0 +1,6 @@
+To complie the practical 05 codes:
+o compile:-
+gcc -lm -o hyperbolic hyperbolic.c
+
+ compile:-
+gcc -lm -o maclaurin maclaurin.c
